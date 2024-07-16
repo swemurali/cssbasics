@@ -6,7 +6,7 @@ CSS BASICS
 code.HTML
 '''
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -201,13 +201,13 @@ code.HTML
     </main>
   </body>
 </html>
-'''
+```
 
 '''
 code.CSS
 '''
 
-'''
+```
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,800;1,600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
 :root {
@@ -533,7 +533,7 @@ footer a {
   color: #e3e3e3;
   text-decoration: none;
 }
-'''
+```
 
 ![alt text](op1.png) 
 ![alt text](op2.png) 
